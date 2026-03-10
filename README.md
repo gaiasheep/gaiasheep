@@ -1,10 +1,7 @@
 ## 
 👋 Hi, I’m Gaia Yang 
 
-👀 I’m interested in:
-* Inquiry-led STEM education and AI Literacy.
-* Mentoring student teams for global success, including FRC World Championships and Weixin Innovation Challenge (First Prize).
-* Integrating "Vibe Coding" and GenAI into the ICT curriculum.
+👀 I’m interested in Computer Science education and integrating "Vibe Coding" and GenAI into the ICT curriculum.
 
 🌊 Beyond the Classroom:
 * I am an avid SUP, diving, and hiking enthusiast.
