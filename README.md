@@ -1,7 +1,7 @@
 ## 
 👋 Hi, I’m Gaia Yang 
 
-👀 I’m interested in Computer Science education and integrating "Vibe Coding" and GenAI into the ICT curriculum.
+👀 I’m interested in ICT/CS education and integrating "Vibe Coding" and GenAI into the ICT/CS curriculum.
 
 🌊 Beyond the Classroom: I am an avid SUP, diving, and hiking enthusiast.
 
