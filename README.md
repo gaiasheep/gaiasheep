@@ -3,8 +3,7 @@
 
 👀 I’m interested in Computer Science education and integrating "Vibe Coding" and GenAI into the ICT curriculum.
 
-🌊 Beyond the Classroom:
-* I am an avid SUP, diving, and hiking enthusiast.
+🌊 Beyond the Classroom: I am an avid SUP, diving, and hiking enthusiast.
 
 📫 How to reach me: gaiayang@outlook.com
 
